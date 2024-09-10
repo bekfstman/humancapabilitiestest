@@ -1,5 +1,5 @@
 *{
-    cursor: url("imgs/cursor.png"),auto;
+    cursor: url("imgs/cursor.png") 15 15,auto;
 }
 body {
     height: 100%;
